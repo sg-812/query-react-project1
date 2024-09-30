@@ -1,0 +1,22 @@
+nav{
+    box-shadow: 0 2px 7px rgb(167, 167, 167);
+}
+nav ul{
+    margin: 0;
+    background-color: rgb(251, 203, 184);
+    padding:10px 20px;
+    display: flex;
+    align-items: center;
+}
+nav ul li{
+    margin:10px 5px;
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    font-weight: 600;
+    color:brown;
+}
+nav ul li a:hover{
+    border-bottom: 2px solid brown;
+}
